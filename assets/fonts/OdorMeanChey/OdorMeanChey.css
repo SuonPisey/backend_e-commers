@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'OdorMeanChey';
+    src: url('OdorMeanChey.eot');
+    src: url('OdorMeanChey.eot?#iefix') format('embedded-opentype'),
+        url('OdorMeanChey.woff2') format('woff2'),
+        url('OdorMeanChey.woff') format('woff'),
+        url('OdorMeanChey.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+ body{
+font-family: system-ui, -apple-system,'OdorMeanChey', "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
